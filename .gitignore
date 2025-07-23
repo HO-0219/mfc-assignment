@@ -1,0 +1,39 @@
+# Visual Studio 기본 무시 파일
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.aps
+*.ncb
+*.log
+*.tlog
+
+# 빌드 결과물
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.dll
+*.lib
+*.exe
+*.pdb
+*.ilk
+*.idb
+
+# 임시 파일
+*.tmp
+*.bak
+*.cache
+
+# 리소스 중 무거운 것 제외
+*.res
+
+# 기타 무시해도 되는 파일
+*.pch
+*.sbr
+*.class
+*.DS_Store
+Thumbs.db
